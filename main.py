@@ -6,3 +6,5 @@ result_sum = algebra.sumar(1, 3)
 result_rest = algebra.restar(1,2)
 ecu.sumar()
 print(result_rest)
+
+print("german")
